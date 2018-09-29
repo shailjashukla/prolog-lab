@@ -1,4 +1,4 @@
-sort(A,[],A
+sort(A,[],A).
 
 sort([],B,B).
 
