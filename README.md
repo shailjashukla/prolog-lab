@@ -1,0 +1,2 @@
+# prolog-lab
+prolog snippets
